@@ -1,9 +1,9 @@
-
-
+package com.sprint.mission.discodeit.controller;
 
 public class TestController {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
 
 }
